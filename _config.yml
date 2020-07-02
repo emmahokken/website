@@ -46,12 +46,6 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Emma.jpg
 about_content: | # this will include new lines to allow paragraphs
-  People describe me as open, hardworking, customer friendly, and even under pressure I continue to perform well. 
-  I like working with other people and to reach great results. However, I am also able to work efficiently on my own. 
-  I’m flexible and I easily adjust to changing circumstances.
-
-  Within AI, I am interested in deep learning, reinforcement learning, 
-  evolutionary computing, computer vision, and natural language processing.
 
 Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
