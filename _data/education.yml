@@ -5,8 +5,8 @@
   qualification: MSc Artificial Intelligence
   quote: >
     Courses on Machine Learning, Deep Learning, Reinforcement
-Learning, Natural Language Processing, Computer Vision, Evolutionary
-Computing, Computational Biology
+    Learning, Natural Language Processing, Computer Vision, Evolutionary
+    Computing, Computational Biology
   description: | # this will include new lines to allow paragraphs
     Description of qualification
 
@@ -18,6 +18,13 @@ name: University of Amsterdam
   # description: | # this will include new lines to allow paragraphs
   #   Description of qualification
 
-
+name: University of Amsterdam
+  dates: February 2017 - June 2017
+  qualification: Minor Programming
+  quote: >
+    - Programming in C, Python, and Swift (native iOS apps)
+    - Programming theory: introduction to various algorithms such as hill
+    climbers, simulated annealing, evolutionary computing.  # description: | # this will include new lines to allow paragraphs
+  #   Description of qualification
 
 
