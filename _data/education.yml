@@ -1,9 +1,30 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: University of Amsterdam
+  dates: September 2018 - present
+  qualification: MSc Artificial Intelligence
   quote: >
-    Short institution or course description (optional)
+    Courses on Machine Learning, Deep Learning, Reinforcement
+Learning, Natural Language Processing, Computer Vision, Evolutionary
+Computing, Computational Biology
   description: | # this will include new lines to allow paragraphs
     Description of qualification
+
+name: University of Amsterdam
+  dates: September 2017
+  qualification: Minor Amsterdam Data Science 
+  quote: >
+    Programming and data wrangling in Python and R
+  # description: | # this will include new lines to allow paragraphs
+  #   Description of qualification
+
+name: University of Amsterdam
+  dates: February 2017 - June 2017
+  qualification: Minor Programming
+  quote: >
+    - Programming in C, Python, and Swift (native iOS apps)
+    - Programming theory: introduction to various algorithms such as hill
+    climbers, simulated annealing, evolutionary computing.  # description: | # this will include new lines to allow paragraphs
+  #   Description of qualification
+
+
