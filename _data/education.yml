@@ -10,7 +10,7 @@
   description: | # this will include new lines to allow paragraphs
     Description of qualification
 
-name: University of Amsterdam
+- name: University of Amsterdam
   dates: September 2017
   qualification: Minor Amsterdam Data Science 
   quote: >
@@ -18,7 +18,7 @@ name: University of Amsterdam
   # description: | # this will include new lines to allow paragraphs
   #   Description of qualification
 
-name: University of Amsterdam
+- name: University of Amsterdam
   dates: February 2017 - June 2017
   qualification: Minor Programming
   quote: >
