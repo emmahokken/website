@@ -50,16 +50,16 @@ about_content: | # this will include new lines to allow paragraphs
   I like working with other people and to reach great results. However, I am also able to work efficiently on my own. 
   I’m flexible and I easily adjust to changing circumstances.
 
-Within AI, I am interested in <mark>deep learning</mark>, <mark>reinforcement learning</mark>, 
-<mark>evolutionary computing</mark>, <mark>computer vision</mark>, and <mark>natural language processing</mark>.
+  Within AI, I am interested in deep learning, reinforcement learning, 
+  evolutionary computing, computer vision, and natural language processing.
 
-# Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-#   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-#     - Lists
-#     - Tables
-#     - <a href="google.com">Links</a>
-#     - Images
+  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+    - Lists
+    - Tables
+    - <a href="google.com">Links</a>
+    - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
