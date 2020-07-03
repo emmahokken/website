@@ -1,10 +1,39 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Minor Prgramming, University of Amsterdam
+  link: https://mprog.nl
+  job_title: Teaching Assistant 
+  dates: September 2017 - present 
   quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+    6-month minor teaching students how to program in C, Python, Swift, JavaScript, and HTML
+    
+    Answering students’ questions, grading students’ weekly assignments and exams
+    
+    Attending conferences on teaching: Apple Swift Educator Summit 2018
+
+- company: ViriCiti
+  link: https://viriciti.com/
+  job_title: Intern
+  dates: June 2019 
+  quote: >
+    Internship as part of one of the courses of the Master Artificial Intelligence  
+    
+    Project on Short-term Urban Traffic Flow Prediction: Predicting the speed of a bus based on previous speed data, weather, and road conditions
+  
+- company: Province of Utrecht 
+  link: https://www.provincie-utrecht.nl/
+  job_title: Junior Project Employee Workplace Management ICT
+  dates: November 2017 - January 2018 
+  quote: >
+    Updating internal websites, transcribing weekly meetings, further ICT support to employees
+  
+- company: Ctaste 
+  link: https://ctaste.com/
+  job_title: Waitress
+  dates: November 2014 - February 2018 
+  quote: >
+    Restaurant where guests eat in complete darkness.<br>
+    Duties included: serving food, table planning, bar duties. 
+  
+  # description: | # this will include new lines to allow paragraphs
+  #   Description of role
