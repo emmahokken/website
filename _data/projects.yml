@@ -1,8 +1,10 @@
 # Project template
 - layout: top-middle
-  name: "Expert: Python, Swift"
-- name: "Advanced: PyTorch, Git, C, JavaScript, HTML, CSS, MATLAB"
-- name: "Intermediate: SQL, Django, Java, Mathematica"
+  name: "Expert:<br>Python, Swift"
+- layout: top-middle
+  name: "Advanced:<br>PyTorch, Git, C, JavaScript, HTML, CSS, MATLAB"
+- layout: top-middle
+  name: "Intermediate:<br>SQL, Django, Java, Mathematica"
   # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   # github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   # quote: >

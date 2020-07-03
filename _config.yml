@@ -13,7 +13,7 @@ email: emmahokken@gmail.com
 darkmode: never 
 
 # Social links
-twitter_username: emmahokken
+# twitter_username: emmahokken
 github_username:  emmahokken
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -60,8 +60,8 @@ about_content: | # this will include new lines to allow paragraphs
 #   - <a href="google.com">Links</a>
 #   - Images
 
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+Projects Section
+projects_title: Technical Skills #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
