@@ -1,39 +1,44 @@
 # Experience template
 - layout: left
   company: Minor Prgramming, University of Amsterdam
-  link: https://mprog.nl
+  link: mprog.nl
   job_title: Teaching Assistant 
   dates: September 2017 - present 
   quote: >
-    6-month minor teaching students how to program in C, Python, Swift, JavaScript, and HTML
-    
-    Answering students’ questions, grading students’ weekly assignments and exams
-    
-    Attending conferences on teaching: Apple Swift Educator Summit 2018
+    6-month minor teaching students how to program in C, Python, Swift, JavaScript, and HTML. <br>    
+    Answering students’ questions, grading students’ weekly assignments and exams. <br>    
+    Attending conferences on teaching: Apple Swift Educator Summit 2018.
 
 - company: ViriCiti
-  link: https://viriciti.com/
+  link: viriciti.com
   job_title: Intern
   dates: June 2019 
   quote: >
-    Internship as part of one of the courses of the Master Artificial Intelligence  
-    
-    Project on Short-term Urban Traffic Flow Prediction: Predicting the speed of a bus based on previous speed data, weather, and road conditions
+    Internship as part of one of the courses of the Master Artificial Intelligence. <br>    
+    Project on Short-term Urban Traffic Flow Prediction: Predicting the speed of a bus based on previous speed data, weather, and road conditions.
   
 - company: Province of Utrecht 
-  link: https://www.provincie-utrecht.nl/
+  link: provincie-utrecht.nl
   job_title: Junior Project Employee Workplace Management ICT
   dates: November 2017 - January 2018 
   quote: >
-    Updating internal websites, transcribing weekly meetings, further ICT support to employees
+    Updating internal websites, transcribing weekly meetings, further ICT support to employees.
   
 - company: Ctaste 
-  link: https://ctaste.com/
+  link: ctaste.com
   job_title: Waitress
   dates: November 2014 - February 2018 
   quote: >
     Restaurant where guests eat in complete darkness.<br>
     Duties included: serving food, table planning, bar duties. 
+  
+- company: International Camp on Computers and Communication, Bartiméus
+  link: icc-camp.info 
+  job_title: Volunteer 
+  dates: July 2015 
+  quote: >
+    Camp for visually impaired people, following workshops on all different topics from computer science to learning about other cultures. <br>
+    Tasks included: organising evening activities, assisting during workshops, accompanying participants to workshops, serving breakfast, lunch, dinner.
   
   # description: | # this will include new lines to allow paragraphs
   #   Description of role
